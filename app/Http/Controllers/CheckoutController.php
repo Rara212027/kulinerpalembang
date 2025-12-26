@@ -26,7 +26,7 @@ class CheckoutController extends Controller
             'address' => 'required'
         ]);
 
-        $adminPhone = '6281234567890'; // GANTI nomor admin
+        $adminPhone = '6281312894129'; // GANTI nomor admin
 
         $message = "🛒 *Pesanan Kuliner Palembang*%0A%0A";
         $message .= "👤 Nama: {$request->name}%0A";

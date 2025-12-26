@@ -81,7 +81,7 @@ class CartController extends Controller
         session()->forget('cart');
 
         return redirect()->away(
-            "https://wa.me/6281234567890?text=" . urlencode($pesan)
+            "https://wa.me/6281312894129?text=" . urlencode($pesan)
         );
     }
 }

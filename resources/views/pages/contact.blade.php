@@ -21,12 +21,12 @@
                     </li>
                     <li class="list-group-item contact-item">
                         <span class="icon">📞</span>
-                        <strong>Telepon:</strong> 0812-3456-789
+                        <strong>Telepon:</strong> 0813-1289-4129
                     </li>
                     <li class="list-group-item contact-item">
                         <span class="icon">💬</span>
                         <strong>WhatsApp:</strong> 
-                        <a href="https://wa.me/628123456789" target="_blank">Chat Sekarang</a>
+                        <a href="https://wa.me/6281312894129" target="_blank">Chat Sekarang</a>
                     </li>
                     <li class="list-group-item contact-item">
                         <span class="icon">📧</span>

@@ -284,7 +284,7 @@
         <p class="mb-1">© {{ date('Y') }} Kuliner Palembang. All rights reserved.</p>
         <p class="small mb-0">
             Jl. Sukarela, Palembang | Telp: 
-            <a href="tel:08123456789" class="footer-link">0812-3456-789</a>
+            <a href="tel:081312894129" class="footer-link">0813-1289-4129</a>
         </p>
     </div>
 </footer>
@@ -313,7 +313,7 @@
 
 </style>
 
-<a href="https://wa.me/628123456789" target="_blank" class="whatsapp-float">
+<a href="https://wa.me/6281312894129" target="_blank" class="whatsapp-float">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp">
 </a>
 <style>
